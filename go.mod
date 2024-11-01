@@ -2,6 +2,10 @@ module github.com/ericroys/go-rest-client
 
 go 1.21.5
 
+retract (
+	v0.1.0 //Nothing to see here
+)
+
 require github.com/json-iterator/go v1.1.12
 
 require (
